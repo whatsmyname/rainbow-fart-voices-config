@@ -1,0 +1,247 @@
+{
+  "name": "klee-CN-voices",
+  "version": "1.0beta",
+  "display-name": "程序员哥哥是好人！",
+  "description": "Klee(CN VA) in Genshin Impact",
+  "author": "whatsmyname",
+  "avatar": "klee_lol.jpg",
+  "avatar-dark": "klee_shout.jpg",
+  "gender": "female",
+  "locale": "zh-cn",
+  "languages": [
+    "python"
+  ],
+  "contributes": [
+    {
+      "keywords": [
+        "$time_morning"
+      ],
+      "voices": [
+        "klee/Good_Morning.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_before_noon"
+      ],
+      "voices": [
+        "klee/Good_Afternoon.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_noon"
+      ],
+      "voices": [
+        "klee/good-noon.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_evening"
+      ],
+      "voices": [
+        "klee/Good_Evening.mp3",
+        "klee/About_Us_-_Playmates.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_midnight"
+      ],
+      "voices": [
+        "klee/Good_Night.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_each_hour"
+      ],
+      "voices": [
+        "klee/About_Albedo.mp3",
+        "klee/About_Amber.mp3",
+        "klee/About_Bennett.mp3",
+        "klee/About_Diluc.mp3",
+        "klee/About_Diona.mp3",
+        "klee/About_Jean.mp3",
+        "klee/About_Kaeya.mp3",
+        "klee/About_Klee_-_Incidents.mp3",
+        "klee/About_Klee_-_Reparations.mp3",
+        "klee/About_Lisa.mp3",
+        "klee/About_Mona.mp3",
+        "klee/About_Razor.mp3",
+        "klee/About_Sucrose.mp3",
+        "klee/About_the_Parents.mp3",
+        "klee/About_the_Vision.mp3",
+        "klee/About_Us_-_Knights.mp3",
+        "klee/More_About_Klee_-_01.mp3",
+        "klee/More_About_Klee_-_02.mp3",
+        "klee/More_About_Klee_-_03.mp3",
+        "klee/More_About_Klee_-_04.mp3",
+        "klee/More_About_Klee_-_05.mp3",
+        "klee/Standby_01.mp3",
+        "klee/Standby_02.mp3",
+        "klee/When_It_Rains.mp3",
+        "klee/When_the_Wind_Is_Blowing.mp3",
+        "klee/When_Thunder_Strikes.mp3",
+        "klee/Chat_-_Adventures.mp3",
+        "klee/Chat_-_Rules.mp3",
+        "klee/Chat_-_Spoils.mp3",
+        "klee/Favorite_Food.mp3",
+        "klee/Hobbies.mp3",
+        "klee/Interesting_Things.mp3",
+        "klee/Least_Favorite_Food.mp3",
+        "klee/Something_to_Share.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "__main__"
+      ],
+      "voices": [
+        "klee/Hello.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "Exception",
+        "Error",
+        "Warning"
+      ],
+      "voices": [
+        "klee/Fallen_01.mp3",
+        "klee/Fallen_02.mp3",
+        "klee/Fallen_03.mp3",
+        "klee/Low_HP_01.mp3",
+        "klee/Low_HP_02.mp3",
+        "klee/Low_HP_03.mp3",
+        "klee/Heavy_Hit_Taken_01.mp3",
+        "klee/Heavy_Hit_Taken_02.mp3",
+        "klee/Heavy_Hit_Taken_03.mp3",
+        "klee/Heavy_Hit_Taken_04.mp3",
+        "klee/Heavy_Hit_Taken_05.mp3",
+        "klee/Heavy_Hit_Taken_06.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "return",
+        "continue",
+        "pass"
+      ],
+      "voices": [
+        "klee/Feelings_About_Ascension_-_01.mp3",
+        "klee/Feelings_About_Ascension_-_02.mp3",
+        "klee/Feelings_About_Ascension_-_03.mp3",
+        "klee/Feelings_About_Ascension_-_04.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "if"
+      ],
+      "voices": [
+        "klee/Jumping_01.mp3",
+        "klee/Jumping_02.mp3",
+        "klee/Jumping_03.mp3",
+        "klee/Jumping_04.mp3",
+        "klee/Jumping_05.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "print"
+      ],
+      "voices": [
+        "klee/Light_Attack_01.mp3",
+        "klee/Light_Attack_02.mp3",
+        "klee/Light_Attack_03.mp3",
+        "klee/Light_Attack_04.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "import"
+      ],
+      "voices": [
+        "klee/Opening_Treasure_Chest_01.mp3",
+        "klee/Opening_Treasure_Chest_02.mp3",
+        "klee/Opening_Treasure_Chest_03.mp3",
+        "klee/Joining_Party_01.mp3",
+        "klee/Joining_Party_02.mp3",
+        "klee/Joining_Party_03.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "class"
+      ],
+      "voices": [
+        "klee/Elemental_Burst_01.mp3",
+        "klee/Elemental_Burst_02.mp3",
+        "klee/Elemental_Burst_03.mp3",
+        "klee/Elemental_Skill_1_01.mp3",
+        "klee/Elemental_Skill_1_02.mp3",
+        "klee/Elemental_Skill_1_03.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "def",
+        "lambda",
+        "super",
+        "classmethod",
+        "cls"
+      ],
+      "voices": [
+        "klee/Climbing_01.mp3",
+        "klee/Climbing_02.mp3",
+        "klee/Climbing_03.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "with"
+      ],
+      "voices": [
+        "klee/Deploying_Wind_Glider_01.mp3",
+        "klee/Deploying_Wind_Glider_02.mp3",
+        "klee/Deploying_Wind_Glider_03.mp3",
+        "klee/Disengaging_Wind_Glider_01.mp3",
+        "klee/Disengaging_Wind_Glider_02.mp3",
+        "klee/Disengaging_Wind_Glider_03.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "global"
+      ],
+      "voices": [
+        "klee/Heavy_Attack_01.mp3",
+        "klee/Heavy_Attack_02.mp3",
+        "klee/Heavy_Attack_03.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "exit"
+      ],
+      "voices": [
+        "klee/Troubles.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "open"
+      ],
+      "voices": [
+        "klee/Sprint_Start_01.mp3",
+        "klee/Sprint_Start_02.mp3",
+        "klee/Sprint_Start_03.mp3",
+        "klee/Mid_Attack_01.mp3",
+        "klee/Mid_Attack_02.mp3",
+        "klee/Mid_Attack_03.mp3"
+      ]
+    }
+  ]
+}
